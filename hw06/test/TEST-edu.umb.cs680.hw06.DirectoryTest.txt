@@ -1,0 +1,11 @@
+Testcase: edu.umb.cs680.hw06.DirectoryTest
+Test: testsrcEquality() took 10 milli sec(s)
+Test: subDirsTestOnRootDir() took 1 milli sec(s)
+Test: totalSizeTestOnRootDir() took 1 milli sec(s)
+Test: testingIsDirectoryOnRootDir() took 1 milli sec(s)
+Test: testdirEquality() took 0 milli sec(s)
+Test: subFilesTestOnRootDir() took 0 milli sec(s)
+Test: src2dirEquality() took 1 milli sec(s)
+Test: testlibEquality() took 1 milli sec(s)
+Test: testRootEquality() took 0 milli sec(s)
+Tests run: 9, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 26 milli sec(s)

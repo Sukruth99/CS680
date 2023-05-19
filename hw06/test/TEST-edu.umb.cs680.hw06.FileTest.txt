@@ -1,0 +1,8 @@
+Testcase: edu.umb.cs680.hw06.FileTest
+Test: fileBEquality() took 0 milli sec(s)
+Test: fileDEquality() took 0 milli sec(s)
+Test: TestingifFileXgivesFalseForIsDirectory() took 1 milli sec(s)
+Test: fileAEquality() took 0 milli sec(s)
+Test: fileCEquality() took 0 milli sec(s)
+Test: fileXEquality() took 1 milli sec(s)
+Tests run: 6, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 3 milli sec(s)
